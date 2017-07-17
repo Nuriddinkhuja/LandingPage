@@ -1,10 +1,7 @@
-# MOGO Template
+# About
+MOGO Template.
 MOGO is a web app landing page template theme for Bootstrap. This template can be used for several purposes.
 This project was created based on <a href="https://drive.google.com/file/d/0B00N2B6aZBjOLW44WEFzMmhWbjA/view?usp=sharing">MOGO</a> PSD template
-
-## About
-This application to upload photos and to share with other users. Simply drag-and-drop your picture, add discription and collect likes. 
-
 
 ## Used plugins
 * [Bootstrap](http://getbootstrap.com/)
